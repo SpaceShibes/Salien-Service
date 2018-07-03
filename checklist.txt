@@ -1,5 +1,5 @@
-+Contact information -Soon
-+beautiful front-end work -In development
-+Good compatibility work for mobile and PC browsers -Done
-+100 limit of scripts running at a time (PHP) -Set
++Contact information -Done
++beautiful front-end work -Almost done
++Good compatibility work for mobile and PC browsers -Done (but not tested on mobile yet)
++10 limit of scripts running at a time (PHP) -Set
 +host website on github.io -Soon
