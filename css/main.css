@@ -1,5 +1,5 @@
 body{ /* background image for index.html page*/ 
-    background-image: url("img/?");
+    background-image: url("https://media.giphy.com/media/147dhpS014bAaY/giphy.gif");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -10,14 +10,10 @@ body{ /* background image for index.html page*/
     height: 100vh;
     color: skyblue;
     font-weight: bold;
-    animation: pulse 15s infinite;
 }
-@keyframes pulse {
-  0% {
-    background-color: #001F3F;
-  }
-  100% {
-    background-color: #FF4136;
-  }
+
+*:link,*:visited {
+  color: white;
+  text-decoration: none;
 }
 
